@@ -1,2 +1,9 @@
 ﻿body {
 }
+.orange-box {
+    background-color: orange;
+    color: white;
+    border: 1px solid black;
+    padding: 5px;
+    width: 100%;
+}

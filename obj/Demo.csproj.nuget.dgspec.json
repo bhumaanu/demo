@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abhuma\\Documents\\.Net CoPA\\Form IO\\Demo\\Demo.csproj": {}
+    "C:\\Users\\abhuma\\Documents\\.Net CoPA\\Form IO\\demo\\Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abhuma\\Documents\\.Net CoPA\\Form IO\\Demo\\Demo.csproj": {
+    "C:\\Users\\abhuma\\Documents\\.Net CoPA\\Form IO\\demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhuma\\Documents\\.Net CoPA\\Form IO\\Demo\\Demo.csproj",
+        "projectUniqueName": "C:\\Users\\abhuma\\Documents\\.Net CoPA\\Form IO\\demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "C:\\Users\\abhuma\\Documents\\.Net CoPA\\Form IO\\Demo\\Demo.csproj",
+        "projectPath": "C:\\Users\\abhuma\\Documents\\.Net CoPA\\Form IO\\demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\abhuma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abhuma\\Documents\\.Net CoPA\\Form IO\\Demo\\obj\\",
+        "outputPath": "C:\\Users\\abhuma\\Documents\\.Net CoPA\\Form IO\\demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abhuma\\AppData\\Roaming\\NuGet\\NuGet.Config",
